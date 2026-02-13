@@ -22,6 +22,8 @@ public class JobPortalApp {
     private static User currentUser = null;
     private static Scanner sc = new Scanner(System.in);
 
+    
+    
     public static void main(String[] args) {
         logger.info("RevHire Application Started Successfully!");
         
